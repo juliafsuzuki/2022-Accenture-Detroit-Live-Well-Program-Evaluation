@@ -7,3 +7,5 @@ https://public.tableau.com/app/profile/accenture.detroit/viz/AccentureDetroitLiv
 Personal Tableau Projects: 
 
 https://public.tableau.com/app/profile/julia.suzuki
+
+![Tableau_AccentureDetroit_LiveWell_ProgramEvaluation](https://github.com/juliafsuzuki/Data-Visualization-using-Tableau/assets/77695324/45ed8d75-213a-493e-adf3-938e92822c86)
