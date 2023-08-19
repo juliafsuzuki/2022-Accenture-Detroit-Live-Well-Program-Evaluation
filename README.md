@@ -6,7 +6,7 @@
 
 https://public.tableau.com/app/profile/accenture.detroit/viz/AccentureDetroitLiveWell_ProgramEvaluation_202210/S_MiHWLC
 
-![Tableau_DanceMobility_ProgramEvaluation](https://github.com/juliafsuzuki/2022-Data-Visualization-using-Tableau/assets/77695324/20055eb0-972c-4a9a-8fb2-b640cf737d3a)
+![Tableau_DanceMobility_ProgramEvaluation](https://github.com/juliafsuzuki/2022-Data-Visualization-using-Tableau/assets/77695324/957bfb00-7f57-4cc6-8349-db135ba93f6b)
 
 2 - 2022 Dance Mobility Experience Survey Results
 
